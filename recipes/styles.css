@@ -1,0 +1,18 @@
+*{
+    line-height:1.5;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+img{
+    width:500px;
+}
+ul{
+    disply:none;
+
+}
+h1{
+    color:darkred;
+    font-size:2em;
+}
